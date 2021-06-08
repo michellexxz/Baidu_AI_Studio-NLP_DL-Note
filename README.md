@@ -7,6 +7,7 @@
 - 课程链接：https://aistudio.baidu.com/aistudio/course/introduce/24177
 - 直播地址：https://live.bilibili.com/21689802
   - 直播时间：2021.06工作日20h30
+- Q&A合集：[Q&A合集](./QA.md)
 - PaddleNLP飞桨文本领域核心库GitHub：https://github.com/PaddlePaddle/PaddleNLP
 - ERNIE语义理解开发套件：https://github.com/PaddlePaddle/ERNIE
 - 千言数据集开源项目：https://luge.ai/

@@ -11,3 +11,4 @@
 
 # 课程大纲
 
+![course_info](./image/course.png)

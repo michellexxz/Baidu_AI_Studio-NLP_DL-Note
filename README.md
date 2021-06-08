@@ -17,7 +17,7 @@
 
 # 课程大纲
 
-| 序号| 主要领域 | 日期 | 星期 | 理论课 | 实践课 | 理论作业 | 实践作业 | Bonus |
+| 序号| 主要领域 | 日期 | 星期 | 理论课 | 实践课 | 客观题 | 实战题 | Bonus |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 00 | 预习 | 2021.06.01 | 周二 | [1.NLP初体验](./ppt_notes/00_1_NLP初体验.md)<br />[2.PaddlePaddle快速入门](./ppt_notes/00_2_PaddlePaddle快速入门.ipynb)<br />[3.Notebook基础操作](./ppt_notes/00_3_Notebook基础操作.ipynb)<br />[4.什么是深度学习](./ppt_notes/00_4_什么是深度学习.ipynb)<br />[5.Python基础](./ppt_notes/00_5_Python基础.md) | UNK | UNK | [本地安装paddlepaddle](./homework/0_预习作业_本地安装paddlepaddle.md) | UNK |
 | 01 | 导论 | 2021.06.07 | 周一 | [走进自然语言处理](./ppt_notes/01_走进自然语言处理.md) | UNK | UNK | UNK | UNK |

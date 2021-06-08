@@ -8,6 +8,10 @@
 - 直播地址：https://live.bilibili.com/21689802
   - 直播时间：2021.06工作日20h30
 - PaddleNLP GitHub：https://github.com/PaddlePaddle/PaddleNLP
+- PaddlePaddle使用教程：https://www.paddlepaddle.org.cn/documentation/docs/zh/develop/guides/index_cn.html
+- 本地安装PaddlePaddle的常见错误：https://aistudio.baidu.com/aistudio/projectdetail/697227
+- API文档：https://www.paddlepaddle.org.cn/documentation/docs/zh/develop/api/index_cn.html
+- Github使用：https://guides.github.com/activities/hello-world/
 
 # 课程大纲
 

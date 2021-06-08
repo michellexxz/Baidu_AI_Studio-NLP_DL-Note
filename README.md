@@ -6,5 +6,5 @@
 
 - 课程链接：https://aistudio.baidu.com/aistudio/course/introduce/24177
 - 直播地址：https://live.bilibili.com/21689802
-  - 直播时间：2021.06工作日20h30-
+  - 直播时间：2021.06工作日20h30
 - PaddleNLP GitHub：https://github.com/PaddlePaddle/PaddleNLP

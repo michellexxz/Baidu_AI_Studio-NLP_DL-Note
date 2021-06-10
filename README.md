@@ -36,4 +36,4 @@
 | 13 | 产业实践 | 2021.06.24 | 周四 | [预训练模型产业实践课]() | [预训练模型小型化与部署实践]() | UNK | [](./homework/) |
 | 14 | 结营 | 2021.06.25 | 周五 | [结业颁奖与开放题指导]() | UNK | UNK | UNK |
 | 15 | 结营 | 2021.07.26 | 周一 | [开放题揭榜与学员分享]() | UNK | UNK | UNK |
-| ** | 大作业 |  |  | UNK | UNK| UNK | 
+| ** | 大作业 |  |  | UNK | UNK| UNK | [千言数据集：情感分析](https://aistudio.baidu.com/aistudio/competition/detail/50) |

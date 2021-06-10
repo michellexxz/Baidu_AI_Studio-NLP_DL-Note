@@ -25,7 +25,7 @@
 | 02 | 基础 | 2021.06.08 | 周二 | [前预训练时代的自监督学习]() | [词向量应用演示](./ppt_notes/02_词向量应用演示.md) | UNK | [Word Embedding](./homework/02_wordEmbedding.ipynb) | [seq2vec是什么? 瞧瞧怎么用它做情感分析](./ppt_notes/02_seq2vec是什么_瞧瞧怎么用它做情感分析.md) |
 | 03 | 基础 | 2021.06.09 | 周三 | [预训练语言模型及应用]() | [文本语义相似度计算](./ppt_notes/03_文本语义相似度计算.ipynb) | UNK | [Semantic Similarity (LCQMC)](./homework/03_semanticSimilarity.ipynb) | [BQ Corpus](./data/homework03/bonus/bq_corpus.zip) + [PAWS-X (中文)](./data/homework03/bonus/paws-x-zh.zip) + 优化模型 |
 | 04 | 基础 | 2021.06.10 | 周四 | [词法分析技术及其应用]() | [快递单信息识别]() | UNK | [NER](./homework/04_ner.ipynb) | [..]()<br/>[CRF]() |
-| 05 | 理解 | 2021.06.11 | 周五 | [信息抽取技术及应用]() | [实体关系抽取]() | 
+| 05 | 理解 | 2021.06.11 | 周五 | [信息抽取技术及应用]() | [实体关系抽取]() | UNK | ERE |
 | 06 | 理解 | 2021.06.15 | 周二 | [情感分析技术及应用]() | [文本情感分析]() |
 | 07 | 问答 | 2021.06.16 | 周三 | [检索式文本问答]() | [机器阅读理解]() |
 | 08 | 问答 | 2021.06.17 | 周四 | [结构化数据问答]() | UNK |

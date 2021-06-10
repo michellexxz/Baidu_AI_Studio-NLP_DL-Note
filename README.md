@@ -20,8 +20,8 @@
 
 | 序号| 主要领域 | 日期 | 星期 | 理论课 | 实践课 | 客观题 | 实战题 | Bonus | 题目解析 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 00 | 预习 | 2021.06.01 | 周二 | [1. NLP初体验](./ppt_notes/00_1_NLP初体验.md)<br />[2. PaddlePaddle快速入门](./ppt_notes/00_2_PaddlePaddle快速入门.ipynb)<br />[3. Notebook基础操作](./ppt_notes/00_3_Notebook基础操作.ipynb)<br />[4. 什么是深度学习](./ppt_notes/00_4_什么是深度学习.ipynb)<br />[5. Python基础](./ppt_notes/00_5_Python基础.md) | UNK | UNK | [Local Install paddlepaddle](./homework/0_预习作业_本地安装paddlepaddle.md) | UNK |
-| 01 | 导论 | 2021.06.07 | 周一 | [走进自然语言处理](./ppt_notes/01_走进自然语言处理.md) | UNK | UNK | UNK | UNK |
+| 00 | 预习 | 2021.06.01 | 周二 | [1. NLP初体验](./ppt_notes/00_1_NLP初体验.md)<br />[2. PaddlePaddle快速入门](./ppt_notes/00_2_PaddlePaddle快速入门.ipynb)<br />[3. Notebook基础操作](./ppt_notes/00_3_Notebook基础操作.ipynb)<br />[4. 什么是深度学习](./ppt_notes/00_4_什么是深度学习.ipynb)<br />[5. Python基础](./ppt_notes/00_5_Python基础.md) | UNK | UNK | [Local Install paddlepaddle](./homework/0_预习作业_本地安装paddlepaddle.md) | UNK | UNK |
+| 01 | 导论 | 2021.06.07 | 周一 | [走进自然语言处理](./ppt_notes/01_走进自然语言处理.md) | UNK | UNK | UNK | UNK | UNK |
 | 02 | 基础 | 2021.06.08 | 周二 | [前预训练时代的自监督学习]() | [词向量应用演示](./ppt_notes/02_词向量应用演示.md) | UNK | [Word Embedding](./homework/02_wordEmbedding.ipynb) | [seq2vec是什么? 瞧瞧怎么用它做情感分析](./ppt_notes/02_seq2vec是什么_瞧瞧怎么用它做情感分析.md) | [Guide](./homework/02_wordEmbedding_guide.md)
 | 03 | 基础 | 2021.06.09 | 周三 | [预训练语言模型及应用]() | [文本语义相似度计算](./ppt_notes/03_文本语义相似度计算.ipynb) | UNK | [Semantic Similarity (LCQMC)](./homework/03_semanticSimilarity.ipynb) | [BQ Corpus](./data/homework03/bonus/bq_corpus.zip) + [PAWS-X (中文)](./data/homework03/bonus/paws-x-zh.zip) + 优化模型 |
 | 04 | 基础 | 2021.06.10 | 周四 | [词法分析技术及其应用]() | [快递单信息识别]() | UNK | [NER](./homework/04_ner.ipynb) | [..]()<br/>[CRF]() |
